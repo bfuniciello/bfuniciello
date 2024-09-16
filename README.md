@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bfuniciello
-- 👀 I’m interested in enabling accessible learning
+- 👀 I’m interested in developing accessible learning courses
 - 🌱 I’m currently learning more about leveraging AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
